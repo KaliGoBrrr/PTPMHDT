@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\GPTAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\GPTlog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\GPTreg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\GPTYKhoaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
